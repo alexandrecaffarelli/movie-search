@@ -3,6 +3,8 @@
 <img src="./public/img/movie.jpg" alt="movie-search" width="300"/>
 
 Web app to search movies!
+Please follow the link below to access the website:
+[movie-search](https://movie-search-alcaff.herokuapp.com/)
 
 Using:
 
